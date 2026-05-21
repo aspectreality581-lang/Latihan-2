@@ -1,1 +1,1 @@
-![GitHub Logo](https://cat.jpeg"GitHub")
+![GitHub Logo](cat.jpeg "GitHub")
